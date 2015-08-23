@@ -4,7 +4,7 @@ This project can be deployed on Heroku to give the JDK 9 JShell a spin.
 
 ## Demo
 
-![JShell Demo](http://i.imgur.com/92VdFKw.gif?1)
+![JShell Demo](http://i.imgur.com/AdPVQSB.gif)
 
 ## Usage
 
