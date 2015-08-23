@@ -25,4 +25,6 @@ INFO: Created user preferences directory.
 ->
 ```
 
-Happy shelling!
+Here is an [InfoQ article with some suggestions on what commands to try](www.infoq.com/articles/Java9-New-HTTP-2-and-REPL).
+
+Happy shelling! 
