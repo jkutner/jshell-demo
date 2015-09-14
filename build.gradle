@@ -5,7 +5,7 @@ plugins {
 import de.undercouch.gradle.tasks.download.Download
 
 task downloadKulla(type: Download) {
-    src 'https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/239/artifact/kulla-0.819-20150909005839.jar'
+    src 'https://adopt-openjdk.ci.cloudbees.com/view/OpenJDK/job/langtools-1.9-linux-x86_64-kulla-dev/244/artifact/kulla-0.819-20150914005842.jar'
     dest "$buildDir/kulla.jar"
 }
 
