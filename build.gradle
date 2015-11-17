@@ -4,11 +4,6 @@ plugins {
 
 import de.undercouch.gradle.tasks.download.Download
 
-task downloadKulla(type: Download) {
-    src 'https://lang-jvm.s3.amazonaws.com/jdk/kulla.jar'
-    dest "$buildDir/kulla.jar"
-}
-
 task stage {
-  dependsOn downloadKulla
+
 }
